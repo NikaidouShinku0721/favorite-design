@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="440" viewBox="0 0 1120 440" role="img" aria-labelledby="title description">
+  <title id="title">favorite-design — 让风景、叙事与交互相遇</title>
+  <desc id="description">原创概念头图。深蓝底、浅青与暖色层纸、完整白色羽形线稿及稳定的文字层，表示美术、叙事与交互之间的关系；没有游戏人物或场景素材。</desc>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#11293c"/><stop offset=".58" stop-color="#143f53"/><stop offset="1" stop-color="#1f334d"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9f4e8"/><stop offset="1" stop-color="#d8ebef"/></linearGradient>
+    <linearGradient id="air" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8bd4e5" stop-opacity=".38"/><stop offset="1" stop-color="#8bd4e5" stop-opacity="0"/></linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#edb698" stop-opacity=".5"/><stop offset="1" stop-color="#edb698" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1120" height="440" fill="url(#field)"/>
+  <path d="M0 340C250 210 348 322 670 199S964 105 1120 71V440H0Z" fill="url(#air)"/>
+  <path d="M0 359C211 279 363 311 561 373" fill="none" stroke="#b9dce4" stroke-opacity=".3" stroke-width="1"/>
+  <path d="M552 65C720 1 911 60 1120 11" fill="none" stroke="#c1dee5" stroke-opacity=".25" stroke-width="1"/>
+  <path d="M47 48H638M47 390H1073" stroke="#a8c3ce" stroke-opacity=".4"/>
+  <g fill="#a9cbd6" font-family="Arial, sans-serif" font-size="11" letter-spacing="2.8">
+    <text x="48" y="35">ART DIRECTION / STORY / INTERACTION</text>
+    <text x="48" y="416">A CODEX SKILL · ORIGINAL COMPOSITION, VERIFIED REFERENCES</text>
+  </g>
+  <text x="45" y="159" fill="#f6f2e8" font-family="Georgia, 'Times New Roman', serif" font-size="73" letter-spacing="-2">favorite-design</text>
+  <text x="48" y="216" fill="#e6edf0" font-family="'Noto Serif CJK SC', 'SimSun', serif" font-size="29" letter-spacing="3">让风景、叙事与交互相遇。</text>
+  <g fill="#a7c8d4" font-family="'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="15">
+    <text x="48" y="271">原作气质 · 内容密度 · 有意义的动效</text>
+    <text x="48" y="300">从多种艺术语言中，写出属于这个项目的设计。</text>
+  </g>
+  <g transform="translate(753 86) rotate(-11)">
+    <path d="M0 18H235V191H0Z" fill="#91d6e3" fill-opacity=".18" stroke="#addce6" stroke-opacity=".44"/>
+    <path d="M19 46C87 9 164 68 211 43M19 150C100 104 154 152 211 111" fill="none" stroke="#bce8ef" stroke-opacity=".62"/>
+    <text x="19" y="177" fill="#c5e8ef" font-family="Arial, sans-serif" font-size="10" letter-spacing="2">01 / ENVIRONMENT</text>
+  </g>
+  <g transform="translate(734 143) rotate(7)">
+    <path d="M0 0H245V167H0Z" fill="url(#paper)"/>
+    <path d="M0 0H245V10H0Z" fill="url(#warm)"/>
+    <text x="20" y="41" fill="#254a5e" font-family="'Noto Serif CJK SC', 'SimSun', serif" font-size="24" letter-spacing="3">风景中的一页</text>
+    <path d="M20 66H212M20 83H192M20 100H209M20 117H149" stroke="#658596" stroke-opacity=".48"/>
+    <text x="20" y="146" fill="#597788" font-family="Arial, sans-serif" font-size="10" letter-spacing="2">02 / NARRATIVE</text>
+  </g>
+  <g transform="translate(824 251) rotate(-7)">
+    <path d="M0 0H238V89H0Z" fill="#143348" fill-opacity=".92" stroke="#acd6df" stroke-opacity=".5"/>
+    <g fill="#f1f3ed" fill-opacity=".7">
+      <path d="M61 56C88 46 90 24 102 8C85 10 75 22 69 36C66 44 66 50 61 56Z"/>
+    </g>
+    <path d="M61 58C78 40 83 28 101 9M70 43L79 44M77 31L86 31M86 21L91 21" fill="none" stroke="#d7e8ec" stroke-width="1"/>
+    <text x="19" y="54" fill="#eff6f5" font-family="'Noto Serif CJK SC', 'SimSun', serif" font-size="22" letter-spacing="2">相逢</text>
+    <text x="132" y="72" fill="#a8d1dc" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.5">03 / RESPONSE</text>
+  </g>
+  <g fill="#d9e9ed" opacity=".5">
+    <circle cx="716" cy="62" r="1.4"/><circle cx="1051" cy="116" r="1.5"/><circle cx="687" cy="236" r="1"/><circle cx="1020" cy="346" r="1.4"/>
+  </g>
+</svg>

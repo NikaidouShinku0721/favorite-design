@@ -1,0 +1,4 @@
+interface:
+  display_name: "Favorite Design"
+  short_description: "从 FAVORITE 官方设计蒸馏构图、动效与故事交互，按作品变化并保留内容密度"
+  default_prompt: "使用 $favorite-design，结合官方设计证据、原作素材和现有页面，在请求范围内制作有美术层次与作品个性的改进预览。"
